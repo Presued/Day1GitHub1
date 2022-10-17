@@ -1,0 +1,15 @@
+/Users/manuel/Documents/LvL 1 CodeA/Day1GitHub/bin/Debug/net6.0/Day1GitHub
+/Users/manuel/Documents/LvL 1 CodeA/Day1GitHub/bin/Debug/net6.0/Day1GitHub.deps.json
+/Users/manuel/Documents/LvL 1 CodeA/Day1GitHub/bin/Debug/net6.0/Day1GitHub.runtimeconfig.json
+/Users/manuel/Documents/LvL 1 CodeA/Day1GitHub/bin/Debug/net6.0/Day1GitHub.dll
+/Users/manuel/Documents/LvL 1 CodeA/Day1GitHub/bin/Debug/net6.0/Day1GitHub.pdb
+/Users/manuel/Documents/LvL 1 CodeA/Day1GitHub/obj/Debug/net6.0/Day1GitHub.csproj.AssemblyReference.cache
+/Users/manuel/Documents/LvL 1 CodeA/Day1GitHub/obj/Debug/net6.0/Day1GitHub.GeneratedMSBuildEditorConfig.editorconfig
+/Users/manuel/Documents/LvL 1 CodeA/Day1GitHub/obj/Debug/net6.0/Day1GitHub.AssemblyInfoInputs.cache
+/Users/manuel/Documents/LvL 1 CodeA/Day1GitHub/obj/Debug/net6.0/Day1GitHub.AssemblyInfo.cs
+/Users/manuel/Documents/LvL 1 CodeA/Day1GitHub/obj/Debug/net6.0/Day1GitHub.csproj.CoreCompileInputs.cache
+/Users/manuel/Documents/LvL 1 CodeA/Day1GitHub/obj/Debug/net6.0/Day1GitHub.dll
+/Users/manuel/Documents/LvL 1 CodeA/Day1GitHub/obj/Debug/net6.0/refint/Day1GitHub.dll
+/Users/manuel/Documents/LvL 1 CodeA/Day1GitHub/obj/Debug/net6.0/Day1GitHub.pdb
+/Users/manuel/Documents/LvL 1 CodeA/Day1GitHub/obj/Debug/net6.0/Day1GitHub.genruntimeconfig.cache
+/Users/manuel/Documents/LvL 1 CodeA/Day1GitHub/obj/Debug/net6.0/ref/Day1GitHub.dll
